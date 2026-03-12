@@ -18,7 +18,7 @@ jobs:
 
     strategy:
       matrix:
-        python-version: [ 3.13 ]
+        python-version: [ 3.12 ]
 
     steps:
       - name: Configure git
@@ -79,6 +79,7 @@ jobs:
       - name: Sync Repositories
         id: sync   # Give the step an ID to access its outputs
         uses: ok-oldking/partial-sync-repo@master # Replace with your action path
+        continue-on-error: true
         with:
           repos: |
             https://hey2295572472:${{ secrets.OK_GH }}@github.com/hey2295572472/ok-ww-update
