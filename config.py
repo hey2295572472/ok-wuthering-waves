@@ -131,18 +131,18 @@ config = {
     },
     'links': {
         'default': {
-            'github': 'https://github.com/ok-oldking/ok-wuthering-waves',
+            'github': 'https://github.com/hey2295572472/ok-wuthering-waves',
             'discord': 'https://discord.gg/vVyCatEBgA',
             'sponsor': 'https://patreon.com/ok_oldking',
-            'share': 'Download OK-WW from https://github.com/ok-oldking/ok-wuthering-waves/releases/latest',
-            'faq': 'https://github.com/ok-oldking/ok-wuthering-waves/blob/master/README_en.md'
+            'share': 'Download OK-WW from https://github.com/hey2295572472/ok-wuthering-waves/releases/latest',
+            'faq': 'https://github.com/hey2295572472/ok-wuthering-waves/blob/master/README_en.md'
         },
         'zh_CN': {
-            'github': 'https://github.com/ok-oldking/ok-wuthering-waves',
+            'github': 'https://github.com/hey2295572472/ok-wuthering-waves',
             'discord': 'https://discord.gg/vVyCatEBgA',
             'sponsor': 'https://afdian.com/a/ok-oldking',
-            'share': 'OK-WW 夸克网盘下载：https://pan.quark.cn/s/75b55ef72a34 GitHub下载: https://github.com/ok-oldking/ok-wuthering-waves/releases/latest',
-            'faq': 'https://cnb.cool/ok-oldking/ok-wuthering-waves/-/blob/main/README.md',
+            'share': 'OK-WW 夸克网盘下载：https://pan.quark.cn/s/75b55ef72a34 GitHub下载: https://github.com/hey2295572472/ok-wuthering-waves/releases/latest',
+            'faq': 'https://github.com/hey2295572472/ok-wuthering-waves/blob/main/README.md',
             'qq_group': 'https://qm.qq.com/q/QUMHZ9IJYO',
             'qq_channel': 'https://pd.qq.com/s/djmm6l44y',
         },

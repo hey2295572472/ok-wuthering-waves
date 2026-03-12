@@ -36,10 +36,10 @@ extensions = find_pyx_packages(base_dir)
 setuptools.setup(
     name="ok-ww",
     version="0.0.1",
-    author="ok-oldking",
-    author_email="firedcto@gmail.com",
+    author="hey2295572472",
+    author_email="2295572472@users.noreply.github.com",
     description="Automation with Computer Vision for Python",
-    url="https://github.com/ok-oldking/ok-script",
+    url="https://github.com/hey2295572472/ok-wuthering-waves",
     packages=setuptools.find_packages(),
     include_package_data=True,
     classifiers=[
