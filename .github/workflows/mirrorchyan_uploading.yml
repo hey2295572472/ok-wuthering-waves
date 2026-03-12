@@ -15,6 +15,6 @@ jobs:
           mirrorchyan_rid: okww
 
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          owner: ok-oldking
+          owner: hey2295572472
           repo: ok-wuthering-waves
           upload_token: ${{ secrets.MirrorChyanUploadToken }}
